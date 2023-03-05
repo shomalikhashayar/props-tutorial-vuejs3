@@ -1,5 +1,7 @@
 # props-tutorial-vuejs3
 
+Vue.js 3 | Passing Data from Parent Component to Child Component.
+
 ## Project setup
 ```
 npm install
